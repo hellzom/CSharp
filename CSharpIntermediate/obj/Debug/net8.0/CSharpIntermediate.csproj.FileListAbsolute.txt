@@ -1,0 +1,16 @@
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\bin\Debug\net8.0\CSharpIntermediate.exe
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\bin\Debug\net8.0\CSharpIntermediate.deps.json
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\bin\Debug\net8.0\CSharpIntermediate.runtimeconfig.json
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\bin\Debug\net8.0\CSharpIntermediate.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\bin\Debug\net8.0\CSharpIntermediate.pdb
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.AssemblyInfoInputs.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.AssemblyInfo.cs
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.sourcelink.json
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\refint\CSharpIntermediate.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.pdb
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.genruntimeconfig.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\ref\CSharpIntermediate.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\CSharpIntermediate\obj\Debug\net8.0\CSharpIntermediate.csproj.AssemblyReference.cache

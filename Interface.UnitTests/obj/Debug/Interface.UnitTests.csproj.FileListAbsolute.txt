@@ -1,0 +1,15 @@
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Interface.UnitTests.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Interface.UnitTests.pdb
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\obj\Debug\Interface.UnitTests.csproj.AssemblyReference.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\obj\Debug\Interface.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\obj\Debug\Interfac.38F75C71.Up2Date
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\obj\Debug\Interface.UnitTests.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface.UnitTests\obj\Debug\Interface.UnitTests.pdb

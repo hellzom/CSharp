@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\CSharpIntermediate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F24420-9A81-4515-8B7A-1E54A73783A2}|..\\Interface.UnitTests\\Interface.UnitTests.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\interface.unittests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFB1610-7ED4-444B-847C-739F2122FE1F}|..\\Interface\\Interface.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFB1610-7ED4-444B-847C-739F2122FE1F}|..\\Interface\\Interface.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\interface\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFB1610-7ED4-444B-847C-739F2122FE1F}|..\\Interface\\Interface.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\interface\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFB1610-7ED4-444B-847C-739F2122FE1F}|..\\Interface\\Interface.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\interface\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6520FDD-7985-4D87-8B75-6A51445073CC}|CSharpIntermediate.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\csharpintermediate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6520FDD-7985-4D87-8B75-6A51445073CC}|CSharpIntermediate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6520FDD-7985-4D87-8B75-6A51445073CC}|CSharpIntermediate.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\csharpintermediate\\07advinheritence\\boxingunboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6520FDD-7985-4D87-8B75-6A51445073CC}|CSharpIntermediate.csproj|solutionrelative:07advinheritence\\boxingunboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6520FDD-7985-4D87-8B75-6A51445073CC}|CSharpIntermediate.csproj|c:\\users\\rishi\\onedrive\\coding-files\\see-sharp-bro\\csharpintermediate\\07advinheritence\\advconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6520FDD-7985-4D87-8B75-6A51445073CC}|CSharpIntermediate.csproj|solutionrelative:07advinheritence\\advconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface.UnitTests\\OrderProcessorTests.cs",
+              "RelativeDocumentMoniker": "..\\Interface.UnitTests\\OrderProcessorTests.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface.UnitTests\\OrderProcessorTests.cs",
+              "RelativeToolTip": "..\\Interface.UnitTests\\OrderProcessorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:34:38.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\Order.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\Order.cs",
+              "RelativeToolTip": "..\\Interface\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:28:59.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShippingCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\ShippingCalculator.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\ShippingCalculator.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\ShippingCalculator.cs",
+              "RelativeToolTip": "..\\Interface\\ShippingCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:28:42.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\CSharpIntermediate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\CSharpIntermediate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:28:01.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoxingUnboxing.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\CSharpIntermediate\\07AdvInheritence\\BoxingUnboxing.cs",
+              "RelativeDocumentMoniker": "07AdvInheritence\\BoxingUnboxing.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\CSharpIntermediate\\07AdvInheritence\\BoxingUnboxing.cs",
+              "RelativeToolTip": "07AdvInheritence\\BoxingUnboxing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:27:52.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdvConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\CSharpIntermediate\\07AdvInheritence\\AdvConstructor.cs",
+              "RelativeDocumentMoniker": "07AdvInheritence\\AdvConstructor.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\CSharpIntermediate\\07AdvInheritence\\AdvConstructor.cs",
+              "RelativeToolTip": "07AdvInheritence\\AdvConstructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:27:41.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\Program.cs",
+              "RelativeToolTip": "..\\Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:25:51.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\rishi\\OneDrive\\Coding-Files\\See-Sharp-Bro\\Interface\\OrderProcessor.cs",
+              "RelativeToolTip": "..\\Interface\\OrderProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:22:35.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

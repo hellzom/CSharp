@@ -1,0 +1,5 @@
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\Interface\obj\Debug\net8.0\Interface.sourcelink.json
